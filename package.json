@@ -2,7 +2,7 @@
   "name": "react-practice",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://sayanida.github.io/react-practice",
+  "homepage": "https://sayanida.github.io/react-pokemon-search",
   "dependencies": {
     "@emotion/react": "^11.14.0",
     "@emotion/styled": "^11.14.1",
