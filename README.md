@@ -1,4 +1,4 @@
-# React MUI crud
+# React Pokemon Search
 
 **Project:** _Pokemon Search App_   
 **Version:** 1.0  
