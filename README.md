@@ -15,7 +15,4 @@ You can search pokemon and view the states.
 ## Technologies Used
 - React
 - Material-UI (MUI)
-  - Dialog: [MUI Dialog](https://mui.com/material-ui/react-dialog/)
-  - Text Field: [MUI TextField](https://mui.com/material-ui/react-text-field/)
-  - Buttons: [MUI Button](https://mui.com/material-ui/react-button/)
-  - Grid: [MUI DataGrid](https://mui.com/x/react-data-grid/)
+- Emotion
